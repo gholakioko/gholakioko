@@ -15,7 +15,7 @@ My core expertise lies in transforming business needs into technical reality—f
 - 🌱 I’m always learning more about data streaming technologies like Kafka and efficient data modeling techniques for large-scale warehouses.
 - 💬 Ask me about anything related to **ETL/ELT orchestration, data warehousing on Redshift, or building data-driven web apps**.
 - 📫 How to reach me: **ghollahkioko@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/ghollahkioko/).
-- ⚡ Fun fact: [ "I love hiking and mountain biking."]
+- ⚡ Fun fact:  "I love hiking and mountain biking."
 
 ---
 
